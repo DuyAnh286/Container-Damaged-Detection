@@ -49,25 +49,7 @@ Model: Trained on a diverse dataset of 13,827 images.
 
 Effectiveness: The solution successfully delivers a low-cost system, making it suitable for SMEs, with high potential for widespread application in the logistics industry.
 
-5. Installation & Usage Guide
-You can download the project files and follow these steps to run the program:
-
-Clone the repository:
-
-Bash
-
-git clone https://github.com/YourUsername/Container-Damage-Detection.git
-cd Container-Damage-Detection
-Install Python dependencies:
-
-Bash
-
-pip install -r requirements.txt
-Hardware Setup: Connect the camera to the Raspberry Pi and configure the network (Tailscale, SSH) to enable the Raspberry Pi to send images to the server.
-
-Run the program: Execute the main program file to begin the damage detection process.
-
-6. Authors
+5. Authors
 Duy Anh Do
 
 Le Minh Khoi Pham
